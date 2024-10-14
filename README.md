@@ -5,11 +5,13 @@ It is a simple vending machine that takes in user input and returns the appropri
 The program will then calculate the change and return the item and change to the user
 
 Quick Start
+
 Fork and download this repo.
 Install .NET Core on your device: https://www.microsoft.com/net/core
 Open Visual Studio Console Application and Run the program.
 
 Initial Approach
+
 My approach to this challenge will be guided by three main topics:
 
 OOP & single responsibility
