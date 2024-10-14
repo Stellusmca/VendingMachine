@@ -1,4 +1,5 @@
 Vending Machine
+
 It is a Pure Visual Studio console application Project. 
 It is a simple vending machine that takes in user input and returns the appropriate item and change. The user can input coins and select an item to purchase. 
 The program will then calculate the change and return the item and change to the user
