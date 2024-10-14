@@ -15,13 +15,19 @@ Initial Approach
 My approach to this challenge will be guided by three main topics:
 
 OOP & single responsibility
+
 Extendability
+
 TDD & good exception handling
+
 XUnit Testing.
+
 
 In terms of testing, I need to unit test the main logic behind the application. Since this is a Console application;
 
+
 My main thoughts on the classes are as follows:
+
 
 Item class:
 I could just use a C# dictionary to input each item and its price. However, i feel like extending this would be a mess as you would be left with a massive dictionary, and what if you wanted to add extra properties to the item such as description or quantity, then the dictionary would bloat up. I have chosen to add an Item class for extendability purposes.
