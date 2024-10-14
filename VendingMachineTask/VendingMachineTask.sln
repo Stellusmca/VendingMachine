@@ -5,7 +5,12 @@ VisualStudioVersion = 17.8.35230.98
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineTask", "VendingMachineTask.csproj", "{FBE35E67-7853-4D2A-88B9-CF7F24DC475E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachineTaskTest", "..\VendingMachineTaskTest\VendingMachineTaskTest.csproj", "{97B9D40B-0C08-4E6D-A136-17C5BE7C2D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachineTaskTest", "..\VendingMachineTaskTest\VendingMachineTaskTest.csproj", "{97B9D40B-0C08-4E6D-A136-17C5BE7C2D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{223E8D51-C559-4F29-9D3A-89865DC6B5B3}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
